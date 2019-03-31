@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.999998 63" width="0.5in" height="0.69999999in" gorn="0" id="Layer_1"  x="0px" xml:space="preserve" y="0px" version="1.2" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <desc >
+        <referenceFile >Grove_Touch_Sensor_SCH.svg</referenceFile>
+    </desc>
+    <metadata id="metadata111" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs109" />
+    <g  transform="translate(0,-143.99998)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g style="display:inline" gorn="0.3.0.0.0.0.0.0.0" id="layer2" >
+                                    <rect style="stroke-linecap:round" stroke="#000000" width="26.083481" height="44.083485" gorn="0.3.0.0.0.0.0.0.0.0" id="part_symbol" stroke-width="0.91651386"  x="9.4582596" y="153.45824" fill="#ffffff"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0,-143.99998)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g style="display:inline" gorn="0.4.0.0.0.0.0.0.0" id="layer3" >
+                                    <line style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" gorn="0.4.0.0.0.0.0.0.0.0" id="connector1pin" stroke-width="0.69999999"  y1="162.00002" y2="162.00002" fill="none" x1="1.4450099" x2="8.6450129"/>
+                                    <rect stroke="none" width="0.0158" height="0.0014" gorn="0.4.0.0.0.0.0.0.0.1" id="connector1terminal" stroke-width="0"  x="1.08711" y="161.999" fill="none"/>
+                                    <line style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" gorn="0.4.0.0.0.0.0.0.0.2" id="connector2pin" stroke-width="0.69999999"  y1="171.00002" y2="171.00002" fill="none" x1="1.4450078" x2="8.6450129"/>
+                                    <rect stroke="none" width="0.0158" height="0.0014" gorn="0.4.0.0.0.0.0.0.0.3" id="connector2terminal" stroke-width="0"  x="1.08711" y="170.999" fill="none"/>
+                                    <line style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" gorn="0.4.0.0.0.0.0.0.0.4" id="connector3pin" stroke-width="0.69999999"  y1="180.00002" y2="180.00002" fill="none" x1="1.4450076" x2="8.6450129"/>
+                                    <rect stroke="none" width="0.0158" height="0.0014" gorn="0.4.0.0.0.0.0.0.0.5" id="connector3terminal" stroke-width="0"  x="1.08711" y="179.999" fill="none"/>
+                                    <line style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" gorn="0.4.0.0.0.0.0.0.0.6" id="connector4pin" stroke-width="0.69999999"  y1="189.00002" y2="189.00002" fill="none" x1="1.4450068" x2="8.6450129"/>
+                                    <rect stroke="none" width="0.0158" height="0.0014" gorn="0.4.0.0.0.0.0.0.0.7" id="connector4terminal" stroke-width="0"  x="1.08711" y="188.999" fill="none"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0,-143.99998)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g style="display:inline" gorn="0.5.0.0.0.0.0.0.0" id="layer5" >
+                                    <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr;text-anchor:start;fill:#555555;" gorn="0.5.0.0.0.0.0.0.0.0" font-size="4.5" id="Label_Pin_SIG" >
+                                        <text gorn="0.5.0.0.0.0.0.0.0.0.0" id="tspan4149"  x="17.77783" y="163.56264">SIG</text>
+                                    </g>
+                                    <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555" gorn="0.5.0.0.0.0.0.0.0.1" font-size="4.5" id="Label_Pin_NC" >
+                                        <text gorn="0.5.0.0.0.0.0.0.0.1.0" id="tspan4151"  x="17.574888" y="172.56264">NC</text>
+                                    </g>
+                                    <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555" gorn="0.5.0.0.0.0.0.0.0.2" font-size="4.5" id="Label_Pin_VCC" >
+                                        <text gorn="0.5.0.0.0.0.0.0.0.2.0" id="tspan4153"  x="17.999998" y="181.56264">VCC</text>
+                                    </g>
+                                    <g  transform="translate(-1.9073486e-6,-6.8869782e-6)">
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.375px;line-height:125%;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555" gorn="0.5.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0" font-size="4.5" id="Label_Pin_GND" >
+                                                                    <text gorn="0.5.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0" id="tspan4343"  x="17.732971" y="190.56264">GND</text>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

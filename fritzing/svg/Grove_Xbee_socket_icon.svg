@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="45mm"
+   width="44mm"
+   version="1.1"
+   gorn="0"
+   id="svg2"
+   sodipodi:docname="Grove_OLED_Display_96x96_a75f2c7a5e3cc567f567b62fe022e2ce_3_icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview73"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.7751852"
+     inkscape:cx="92.441161"
+     inkscape:cy="80.132244"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc2">
+    <referenceFile>Grove_OLED_Display_96x96.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs56" />
+  <metadata
+     id="metadata13579">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,67.322835)"
+     id="g14">
+    <g
+       id="g12">
+      <g
+         style="display:inline"
+         gorn="0.3.0.0"
+         id="layer1">
+        <g
+           transform="translate(0,-67.322835)"
+           id="g9">
+          <g
+             id="g7">
+            <path
+               style="display:inline;fill:#274a88"
+               d="m 113.41211,1.4628906 c -3.09966,0 -5.625,2.525342 -5.625,5.625 l -29.812501,0 -29.8125,0 c 0,3.0996604 -2.52535,5.5937504 -5.625,5.5937504 -3.09966,0 -5.59375,-2.49409 -5.59375,-5.5937504 l -26.9999996,0 c -1.570395,0 -2.8125,1.242107 -2.8125,2.8125 l 0,27.0000004 c -3.099659,0 -5.625,2.525341 -5.625,5.625 0,3.099659 2.525341,5.59375 5.625,5.59375 l 0,29.8125 c 0,1.570394 0,29.812499 0,29.812499 3.0996596,0 5.5937496,2.52534 5.5937496,5.625 0,3.09966 -2.49409,5.59375 -5.5937496,5.59375 l 0,27 c 0,1.57039 1.2421,2.8125 2.8125,2.8125 l 26.9999996,0 c 0,3.09966 2.49409,5.625 5.59375,5.625 3.09966,0 5.625,-2.52534 5.625,-5.625 l 29.8125,0 29.812501,0 c 0,-3.09966 2.52534,-5.59375 5.625,-5.59375 3.09966,0 5.59375,2.49409 5.59375,5.59375 l 27,0 c 1.57039,0 2.8125,-1.24211 2.8125,-2.8125 l 0,-27 c 3.09966,0 5.625,-2.49409 5.625,-5.59375 0,-3.09966 -2.52534,-5.625 -5.625,-5.625 l 0,-29.812499 c 0,-1.570393 0,-29.8125 0,-29.8125 -3.09966,0 -5.59375,-2.494091 -5.59375,-5.59375 0,-3.099658 2.49409,-5.625 5.59375,-5.625 l 0,-27.0000004 c 0,-1.570394 -1.2421,-2.8125 -2.8125,-2.8125 l -27,0 c 0,-3.099658 -2.49409,-5.625 -5.59375,-5.625 z m 0,2.375 c 1.79454,0 3.25,1.455462 3.25,3.25 0,1.794542 -1.45546,3.2500004 -3.25,3.2500004 -1.79454,0 -3.25,-1.4554584 -3.25,-3.2500004 0,-1.794538 1.45546,-3.25 3.25,-3.25 z M 7.1308594,39.275391 c 1.794539,0 3.2187496,1.455461 3.2187496,3.25 0,1.794539 -1.4242106,3.25 -3.2187496,3.25 -1.794539,0 -3.25,-1.455461 -3.25,-3.25 0,-1.794539 1.455461,-3.25 3.25,-3.25 z M 148.81836,110.11914 c 1.79454,0 3.25,1.45546 3.25,3.25 0,1.79454 -1.45546,3.25 -3.25,3.25 -1.79454,0 -3.21875,-1.45546 -3.21875,-3.25 0,-1.79454 1.42421,-3.25 3.21875,-3.25 z m -106.281251,35.4375 c 1.79454,0 3.25,1.42421 3.25,3.21875 0,1.79454 -1.45546,3.25 -3.25,3.25 -1.79454,0 -3.25,-1.45546 -3.25,-3.25 0,-1.79454 1.45546,-3.21875 3.25,-3.21875 z"
+               gorn="0.3.0.0.0.0.0"
+               id="Board" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(0,67.322835)"
+     id="g46">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 35.493122,28.226344 h 5.31496 v 3.543307 H 8.9183217 V 22.911384 H 12.461622 V -1.8917656 H 8.9183217 V -10.750034 H 40.808082 v 3.5433074 h -5.31496"
+       gorn="0.4.0.0.0.2"
+       id="path5134-6" />
+  </g>
+  <g
+     transform="translate(0,67.322835)"
+     id="g61">
+    <g
+       id="g59">
+      <g
+         style="display:inline"
+         gorn="0.5.0.0"
+         id="layer3">
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:miter;"
+           font-size="1.5875"
+           gorn="0.5.0.0.0"
+           xml:space="preserve"
+           id="Label_Main"
+           stroke-opacity="1"
+           stroke-width="0.282222"
+           stroke="none"
+           fill-opacity="1"
+           fill="#000000">
+                    <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.625px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff"
+   x="79.480408"
+   gorn="0.5.0.0.0.0"
+   y="-52.658733"
+   id="tspan4400">XBEE SOCKET</text>
+
+                </g>        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;stroke-linecap:butt;stroke-linejoin:miter;"
+           font-size="1.12889"
+           gorn="0.5.0.0.1"
+           xml:space="preserve"
+           id="Label_VCC"
+           stroke-opacity="1"
+           stroke-width="0.282222"
+           stroke="none"
+           fill-opacity="1"
+           fill="#000000">
+                    <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00000006px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr;text-anchor:end;fill:#ffffff"
+   x="24.363949"
+   gorn="0.5.0.0.1.0"
+   y="8.6466131"
+   id="tspan4303">VCC</text>
+
+                </g>        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;stroke-linecap:butt;stroke-linejoin:miter;"
+           font-size="1.12889"
+           gorn="0.5.0.0.2"
+           xml:space="preserve"
+           id="Label_SDA"
+           stroke-opacity="1"
+           stroke-width="0.282222"
+           stroke="none"
+           fill-opacity="1"
+           fill="#000000">
+                    <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+   x="24.359947"
+   gorn="0.5.0.0.2.0"
+   y="15.733228"
+   id="tspan43">SDA</text>
+
+                </g>        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;stroke-linecap:butt;stroke-linejoin:miter;"
+           font-size="1.12889"
+           gorn="0.5.0.0.3"
+           xml:space="preserve"
+           id="Label_SCL"
+           stroke-opacity="1"
+           stroke-width="0.282222"
+           stroke="none"
+           fill-opacity="1"
+           fill="#000000">
+                    <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+   x="24.363949"
+   gorn="0.5.0.0.3.0"
+   y="22.819841"
+   id="tspan46">SCL</text>
+
+                </g>        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;stroke-linecap:butt;stroke-linejoin:miter;"
+           font-size="1.12889"
+           gorn="0.5.0.0.4"
+           xml:space="preserve"
+           id="Label_GND"
+           stroke-opacity="1"
+           stroke-width="0.282222"
+           stroke="none"
+           fill-opacity="1"
+           fill="#ffffff">
+                    <text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+   x="24.363949"
+   gorn="0.5.0.0.4.0"
+   y="1.5599993"
+   id="tspan4197">GND</text>
+
+                </g>      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(0,67.322835)"
+     id="g70">
+    <g
+       id="g68">
+      <g
+         style="display:inline"
+         gorn="0.6.0.0"
+         id="layer4">
+        <path
+           style="display:inline;stroke-linejoin:round"
+           d="m 27.459273,22.148524 0,-1.774496 1.774335,0 0,1.774496 -1.774335,0 z"
+           stroke-width="0.10999979"
+           gorn="0.6.0.0.0"
+           stroke="#000000"
+           fill="#ffe500"
+           id="connector1pin" />
+        <path
+           style="display:inline;stroke-linejoin:round"
+           d="m 29.233624,13.28598 0,1.774497 -1.774335,0 0,-1.774497 1.774335,0 z"
+           stroke-width="0.10999979"
+           gorn="0.6.0.0.1"
+           stroke="#000000"
+           fill="#ffe500"
+           id="connector2pin" />
+        <path
+           style="display:inline;stroke-linejoin:round"
+           d="m 27.459289,6.199365 1.774335,0 0,1.774497 -1.774335,0 0,-1.774497 z"
+           stroke-width="0.10999979"
+           gorn="0.6.0.0.2"
+           stroke="#000000"
+           fill="#ffe500"
+           id="connector3pin" />
+        <path
+           style="display:inline;stroke-linejoin:round"
+           d="m 27.459289,-0.887248 1.774335,0 0,1.774496 -1.774335,0 0,-1.774496 z"
+           stroke-width="0.10999979"
+           gorn="0.6.0.0.3"
+           stroke="#000000"
+           fill="#ffe500"
+           id="connector4pin" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.3333293,0,0,1.3333293,48.673589,16.187489)"
+     id="breadboard">
+    <g
+       id="g54">
+      <path
+         style="fill:#0f7391"
+         inkscape:connector-curvature="0"
+         d="M 45.123,0 68.602,20.33 V 91.387 H 0 V 20.33 L 23.613,0 Z"
+         id="path42" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="M 6.943,55.928 H 60.748 M 6.943,74.475 h 53.804"
+         id="path44" />
+      <polygon
+         style="fill:#ffffff"
+         points="20.487,58.188 20.356,58.58 20.226,58.844 19.961,59.105 19.568,59.367 16.811,62.254 15.629,59.367 15.496,59.105 15.496,58.58 15.629,58.188 10.509,58.188 10.905,58.844 11.166,59.105 13.662,65.145 8.803,69.74 8.279,70.262 7.885,70.525 6.967,71.178 9.852,71.178 10.117,70.658 10.25,70.525 10.509,70.262 14.187,66.587 15.102,68.949 15.496,70.001 15.496,70.788 15.366,71.178 20.487,71.178 20.226,70.525 19.961,70.262 19.698,69.74 17.335,63.695 21.536,59.631 22.324,58.844 23.375,58.188 "
+         id="polygon46" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="M 60.127,62.516 59.994,62.254 59.863,61.994 59.6,61.863 59.336,61.73 58.941,61.597 H 58.55 52.116 c -1.932,0.129 -2.357,0.934 -3.018,2.627 l -1.054,4.463 c -0.206,1.537 -0.057,2.371 1.707,2.49 h 8.533 l 0.524,-1.703 -0.524,0.133 -0.522,0.133 H 51.856 L 51.592,69.607 H 51.46 v -0.133 l -0.132,-0.131 0.132,-0.396 0.396,-1.707 h 7.611 l 0.657,-3.018 0.132,-0.527 v -0.918 z m -3.285,1.316 -0.525,1.967 H 52.25 l 0.393,-1.967 0.133,-0.398 0.133,-0.129 0.26,-0.131 h 0.264 3.02 0.266 l 0.129,0.131 v 0.527 z"
+         id="path48" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 47.528,62.254 -0.134,-0.26 -0.262,-0.131 -0.266,-0.133 -0.395,-0.133 h -0.392 -6.433 c -1.932,0.129 -2.356,0.934 -3.018,2.627 l -1.053,4.463 c -0.209,1.537 -0.059,2.371 1.707,2.49 h 8.533 l 0.525,-1.703 -0.525,0.133 -0.523,0.133 H 39.386 L 39.122,69.607 H 38.99 V 69.474 L 38.858,69.343 38.99,68.947 39.386,67.24 H 47 l 0.657,-3.018 0.132,-0.527 v -0.918 l -0.132,-0.264 z m -3.153,1.578 -0.525,1.967 h -4.067 l 0.394,-1.967 0.133,-0.398 0.133,-0.129 0.26,-0.131 h 0.264 3.018 0.266 l 0.13,0.131 v 0.527 z"
+         id="path50" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="M 35.186,58.45 34.924,58.318 34.53,58.187 H 34.006 24.03 v 0.918 l -0.132,0.918 -2.361,9.451 -0.261,0.787 -0.132,0.525 -0.264,0.391 h 9.979 0.656 l 0.392,-0.128 c 0.844,-0.403 1.707,-0.729 1.836,-1.838 l 0.264,-0.524 0.524,-2.102 V 65.4 l -0.263,-0.258 -0.262,-0.131 -0.264,-0.135 -0.395,-0.129 h -1.179 c 1.185,-0.377 1.64,0.297 2.626,-0.789 l 0.265,-0.266 0.261,-0.521 c 0.132,-0.765 1.464,-4.407 -0.134,-4.721 z m -4.196,7.874 -0.526,2.363 -0.264,0.394 -0.131,0.265 -0.263,0.131 h -0.261 -4.334 l 1.052,-4.074 h 4.333 l 0.128,0.134 h 0.134 l 0.132,0.133 0.132,0.263 z m 1.311,-5.51 -0.527,2.094 -0.129,0.396 -0.13,0.262 -0.265,0.129 -0.392,0.137 h -4.202 l 0.919,-3.938 h 4.331 0.13 l 0.133,0.129 0.131,0.129 z"
+         id="path52" />
+    </g>
+    <g
+       id="g300">
+      <g
+         id="g176">
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="22.867001"
+           id="rect56" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="1.311"
+           y="23.426001"
+           id="rect58" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,23.426 3.049,22.867 0.752,22.867 1.311,23.426 "
+           id="polygon60" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,22.867 3.049,25.166 2.491,24.607 2.491,23.426 "
+           id="polygon62" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,25.166 0.752,25.166 1.311,24.607 2.491,24.607 "
+           id="polygon64" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,24.607 0.752,25.166 0.752,22.867 1.311,23.426 "
+           id="polygon66" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="30.068001"
+           id="rect68" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="1.311"
+           y="30.625"
+           id="rect70" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,30.625 3.049,30.068 0.752,30.068 1.311,30.625 "
+           id="polygon72" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,30.068 3.049,32.367 2.491,31.809 2.491,30.625 "
+           id="polygon74" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,32.367 0.752,32.367 1.311,31.809 2.491,31.809 "
+           id="polygon76" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,31.809 0.752,32.367 0.752,30.068 1.311,30.625 "
+           id="polygon78" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="37.268002"
+           id="rect80" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="1.311"
+           y="37.826"
+           id="rect82" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,37.826 3.049,37.268 0.752,37.268 1.311,37.826 "
+           id="polygon84" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,37.268 3.049,39.566 2.491,39.008 2.491,37.826 "
+           id="polygon86" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,39.566 0.752,39.566 1.311,39.008 2.491,39.008 "
+           id="polygon88" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,39.008 0.752,39.566 0.752,37.268 1.311,37.826 "
+           id="polygon90" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="44.467999"
+           id="rect92" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="1.311"
+           y="45.025002"
+           id="rect94" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,45.025 3.049,44.468 0.752,44.468 1.311,45.025 "
+           id="polygon96" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,44.468 3.049,46.768 2.491,46.208 2.491,45.025 "
+           id="polygon98" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,46.768 0.752,46.768 1.311,46.208 2.491,46.208 "
+           id="polygon100" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,46.208 0.752,46.768 0.752,44.468 1.311,45.025 "
+           id="polygon102" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="51.667999"
+           id="rect104" />
+        <rect
+           style="fill:#8c8663"
+           height="1.183"
+           width="1.182"
+           x="1.311"
+           y="52.227001"
+           id="rect106" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,52.227 3.049,51.668 0.752,51.668 1.311,52.227 "
+           id="polygon108" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,51.668 3.049,53.967 2.491,53.408 2.491,52.227 "
+           id="polygon110" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,53.967 0.752,53.967 1.311,53.408 2.491,53.408 "
+           id="polygon112" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,53.408 0.752,53.967 0.752,51.668 1.311,52.227 "
+           id="polygon114" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="58.868999"
+           id="rect116" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="1.311"
+           y="59.425999"
+           id="rect118" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,59.426 3.049,58.869 0.752,58.869 1.311,59.426 "
+           id="polygon120" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,58.869 3.049,61.168 2.491,60.609 2.491,59.426 "
+           id="polygon122" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,61.168 0.752,61.168 1.311,60.609 2.491,60.609 "
+           id="polygon124" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,60.609 0.752,61.168 0.752,58.869 1.311,59.426 "
+           id="polygon126" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="66.068001"
+           id="rect128" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="1.311"
+           y="66.626999"
+           id="rect130" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,66.627 3.049,66.068 0.752,66.068 1.311,66.627 "
+           id="polygon132" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,66.068 3.049,68.367 2.491,67.809 2.491,66.627 "
+           id="polygon134" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,68.367 0.752,68.367 1.311,67.809 2.491,67.809 "
+           id="polygon136" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,67.809 0.752,68.367 0.752,66.068 1.311,66.627 "
+           id="polygon138" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="73.269997"
+           id="rect140" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="1.311"
+           y="73.825996"
+           id="rect142" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,73.826 3.049,73.27 0.752,73.27 1.311,73.826 "
+           id="polygon144" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,73.27 3.049,75.568 2.491,75.01 2.491,73.826 "
+           id="polygon146" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,75.568 0.752,75.568 1.311,75.01 2.491,75.01 "
+           id="polygon148" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,75.01 0.752,75.568 0.752,73.27 1.311,73.826 "
+           id="polygon150" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="80.469002"
+           id="rect152" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="1.311"
+           y="81.027"
+           id="rect154" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,81.027 3.049,80.469 0.752,80.469 1.311,81.027 "
+           id="polygon156" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,80.469 3.049,82.768 2.491,82.209 2.491,81.027 "
+           id="polygon158" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,82.768 0.752,82.768 1.311,82.209 2.491,82.209 "
+           id="polygon160" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,82.209 0.752,82.768 0.752,80.469 1.311,81.027 "
+           id="polygon162" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="0.75199997"
+           y="87.669998"
+           id="rect164" />
+        <rect
+           style="fill:#8c8663"
+           height="1.1849999"
+           width="1.182"
+           x="1.311"
+           y="88.226997"
+           id="rect166" />
+        <polygon
+           style="fill:#b8af82"
+           points="2.491,88.227 3.049,87.67 0.752,87.67 1.311,88.227 "
+           id="polygon168" />
+        <polygon
+           style="fill:#80795b"
+           points="3.049,87.67 3.049,89.969 2.491,89.41 2.491,88.227 "
+           id="polygon170" />
+        <polygon
+           style="fill:#5e5b43"
+           points="3.049,89.969 0.752,89.969 1.311,89.41 2.491,89.41 "
+           id="polygon172" />
+        <polygon
+           style="fill:#9a916c"
+           points="1.311,89.41 0.752,89.969 0.752,87.67 1.311,88.227 "
+           id="polygon174" />
+      </g>
+      <g
+         id="g298">
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="22.867001"
+           id="rect178" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="66.111"
+           y="23.426001"
+           id="rect180" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,23.426 67.85,22.867 65.553,22.867 66.111,23.426 "
+           id="polygon182" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,22.867 67.85,25.166 67.291,24.607 67.291,23.426 "
+           id="polygon184" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,25.166 65.553,25.166 66.111,24.607 67.291,24.607 "
+           id="polygon186" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,24.607 65.553,25.166 65.553,22.867 66.111,23.426 "
+           id="polygon188" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="30.068001"
+           id="rect190" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="66.111"
+           y="30.625"
+           id="rect192" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,30.625 67.85,30.068 65.553,30.068 66.111,30.625 "
+           id="polygon194" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,30.068 67.85,32.367 67.291,31.809 67.291,30.625 "
+           id="polygon196" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,32.367 65.553,32.367 66.111,31.809 67.291,31.809 "
+           id="polygon198" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,31.809 65.553,32.367 65.553,30.068 66.111,30.625 "
+           id="polygon200" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="37.268002"
+           id="rect202" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="66.111"
+           y="37.826"
+           id="rect204" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,37.826 67.85,37.268 65.553,37.268 66.111,37.826 "
+           id="polygon206" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,37.268 67.85,39.566 67.291,39.008 67.291,37.826 "
+           id="polygon208" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,39.566 65.553,39.566 66.111,39.008 67.291,39.008 "
+           id="polygon210" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,39.008 65.553,39.566 65.553,37.268 66.111,37.826 "
+           id="polygon212" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="44.467999"
+           id="rect214" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="66.111"
+           y="45.025002"
+           id="rect216" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,45.025 67.85,44.468 65.553,44.468 66.111,45.025 "
+           id="polygon218" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,44.468 67.85,46.768 67.291,46.208 67.291,45.025 "
+           id="polygon220" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,46.768 65.553,46.768 66.111,46.208 67.291,46.208 "
+           id="polygon222" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,46.208 65.553,46.768 65.553,44.468 66.111,45.025 "
+           id="polygon224" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="51.667999"
+           id="rect226" />
+        <rect
+           style="fill:#8c8663"
+           height="1.183"
+           width="1.182"
+           x="66.111"
+           y="52.227001"
+           id="rect228" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,52.227 67.85,51.668 65.553,51.668 66.111,52.227 "
+           id="polygon230" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,51.668 67.85,53.967 67.291,53.408 67.291,52.227 "
+           id="polygon232" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,53.967 65.553,53.967 66.111,53.408 67.291,53.408 "
+           id="polygon234" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,53.408 65.553,53.967 65.553,51.668 66.111,52.227 "
+           id="polygon236" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="58.868999"
+           id="rect238" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="66.111"
+           y="59.425999"
+           id="rect240" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,59.426 67.85,58.869 65.553,58.869 66.111,59.426 "
+           id="polygon242" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,58.869 67.85,61.168 67.291,60.609 67.291,59.426 "
+           id="polygon244" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,61.168 65.553,61.168 66.111,60.609 67.291,60.609 "
+           id="polygon246" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,60.609 65.553,61.168 65.553,58.869 66.111,59.426 "
+           id="polygon248" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="66.068001"
+           id="rect250" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="66.111"
+           y="66.626999"
+           id="rect252" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,66.627 67.85,66.068 65.553,66.068 66.111,66.627 "
+           id="polygon254" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,66.068 67.85,68.367 67.291,67.809 67.291,66.627 "
+           id="polygon256" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,68.367 65.553,68.367 66.111,67.809 67.291,67.809 "
+           id="polygon258" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,67.809 65.553,68.367 65.553,66.068 66.111,66.627 "
+           id="polygon260" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="73.269997"
+           id="rect262" />
+        <rect
+           style="fill:#8c8663"
+           height="1.184"
+           width="1.182"
+           x="66.111"
+           y="73.825996"
+           id="rect264" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,73.826 67.85,73.27 65.553,73.27 66.111,73.826 "
+           id="polygon266" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,73.27 67.85,75.568 67.291,75.01 67.291,73.826 "
+           id="polygon268" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,75.568 65.553,75.568 66.111,75.01 67.291,75.01 "
+           id="polygon270" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,75.01 65.553,75.568 65.553,73.27 66.111,73.826 "
+           id="polygon272" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="80.469002"
+           id="rect274" />
+        <rect
+           style="fill:#8c8663"
+           height="1.182"
+           width="1.182"
+           x="66.111"
+           y="81.027"
+           id="rect276" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,81.027 67.85,80.469 65.553,80.469 66.111,81.027 "
+           id="polygon278" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,80.469 67.85,82.768 67.291,82.209 67.291,81.027 "
+           id="polygon280" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,82.768 65.553,82.768 66.111,82.209 67.291,82.209 "
+           id="polygon282" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,82.209 65.553,82.768 65.553,80.469 66.111,81.027 "
+           id="polygon284" />
+        <rect
+           style="fill:#8d8c8c"
+           height="2.299"
+           width="2.2969999"
+           x="65.553001"
+           y="87.669998"
+           id="rect286" />
+        <rect
+           style="fill:#8c8663"
+           height="1.1849999"
+           width="1.182"
+           x="66.111"
+           y="88.226997"
+           id="rect288" />
+        <polygon
+           style="fill:#b8af82"
+           points="67.291,88.227 67.85,87.67 65.553,87.67 66.111,88.227 "
+           id="polygon290" />
+        <polygon
+           style="fill:#80795b"
+           points="67.85,87.67 67.85,89.969 67.291,89.41 67.291,88.227 "
+           id="polygon292" />
+        <polygon
+           style="fill:#5e5b43"
+           points="67.85,89.969 65.553,89.969 66.111,89.41 67.291,89.41 "
+           id="polygon294" />
+        <polygon
+           style="fill:#9a916c"
+           points="66.111,89.41 65.553,89.969 65.553,87.67 66.111,88.227 "
+           id="polygon296" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.5"
+       height="21.197001"
+       width="21.198"
+       x="23.702"
+       y="1.4119999"
+       id="rect302" />
+    <circle
+       style="fill:#02809e"
+       cx="61.216999"
+       cy="27.315001"
+       r="2.1010001"
+       id="circle304" />
+    <circle
+       style="fill:#02809e"
+       cx="48.397999"
+       cy="20.114"
+       r="2.1010001"
+       id="circle306" />
+    <circle
+       style="fill:#02809e"
+       cx="49.058998"
+       cy="15.742"
+       r="1.439"
+       id="circle308" />
+    <circle
+       style="fill:#02809e"
+       cx="6.7080002"
+       cy="89.410004"
+       r="1.439"
+       id="circle310" />
+    <circle
+       style="fill:#02809e"
+       cx="51.272999"
+       cy="29.246"
+       r="4.0310001"
+       id="circle312" />
+  </g>
+</svg>
