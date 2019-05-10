@@ -2,7 +2,7 @@
 
 ## Logiciels
 | Arduino | Fritzing |
-| :-----: | :------: | :-----: | :---------: | :-------: |
+| :-----: | :------: |
 | ![](/icone/Arduino.png) | ![](/icone/Fritzing.png) |
 
 ## Composants
